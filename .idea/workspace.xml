@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09a39d6a-72a8-42dc-a065-0a94d1f9ffc8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-898461571">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="30" />
+          <entry key="css" value="46" />
+          <entry key="html" value="2440" />
+          <entry key="py" value="1178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="46" />
+          <entry key="HTML" value="2440" />
+          <entry key="Python" value="1178" />
+          <entry key="Scratch" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="app1_adminmodel" value="3" />
+          <entry key="app1_new_shedule" value="1" />
+          <entry key="css" value="1" />
+          <entry key="html" value="16" />
+          <entry key="png" value="1" />
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="Database Element" value="4" />
+          <entry key="HTML" value="16" />
+          <entry key="Image" value="1" />
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1229589039">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="4567" />
+          <entry key="py" value="3280" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="4567" />
+          <entry key="Python" value="3280" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="app1_adminmodel" value="1" />
+          <entry key="app1_coursemodel" value="1" />
+          <entry key="app1_student" value="1" />
+          <entry key="html" value="113" />
+          <entry key="py" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="3" />
+          <entry key="HTML" value="113" />
+          <entry key="Python" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Django_Project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/update_class.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django_Project/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+              <folding>
+                <element signature="e#638#670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app1/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+                <marker date="1594658764843" expanded="true" signature="335:336" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="742:748" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="817:1222" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="1660:2032" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="2058:2063" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="2058:2254" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="2204:2254" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="2289:2347" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="2378:2384" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="2837:2843" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="3288:3294" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="3504:3510" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="3504:3574" ph="..." />
+                <marker date="1594658764843" expanded="true" signature="3665:3671" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/view_class.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/new_class.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app1/static/css/common.css" />
+        <option value="$PROJECT_DIR$/templates/adminlogin.html" />
+        <option value="$PROJECT_DIR$/templates/main.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/nor.html" />
+        <option value="$PROJECT_DIR$/templates/common.html" />
+        <option value="$PROJECT_DIR$/templates/login_details.html" />
+        <option value="$PROJECT_DIR$/templates/student.html" />
+        <option value="$PROJECT_DIR$/templates/student_registeration.html" />
+        <option value="$PROJECT_DIR$/templates/stu_registration.html" />
+        <option value="$PROJECT_DIR$/templates/student_menu.html" />
+        <option value="$PROJECT_DIR$/templates/student_registration.html" />
+        <option value="$PROJECT_DIR$/templates/Stu_login_details.html" />
+        <option value="$PROJECT_DIR$/app1/models.py" />
+        <option value="$PROJECT_DIR$/app1/forms.py" />
+        <option value="$PROJECT_DIR$/templates/enrol_course.html" />
+        <option value="$PROJECT_DIR$/templates/UpdateEnroll.html" />
+        <option value="$PROJECT_DIR$/templates/delete_enroll.html" />
+        <option value="$PROJECT_DIR$/templates/view_complete.html" />
+        <option value="$PROJECT_DIR$/templates/view_all Enroll.html" />
+        <option value="$PROJECT_DIR$/templates/cancel.html" />
+        <option value="$PROJECT_DIR$/templates/welcome_menu.html" />
+        <option value="$PROJECT_DIR$/templates/student_index.html" />
+        <option value="$PROJECT_DIR$/templates/welcome_page.html" />
+        <option value="$PROJECT_DIR$/templates/student_login.html" />
+        <option value="$PROJECT_DIR$/templates/admin.html" />
+        <option value="$PROJECT_DIR$/templates/all_course.html" />
+        <option value="$PROJECT_DIR$/Django_Project/urls.py" />
+        <option value="$PROJECT_DIR$/templates/update_class.html" />
+        <option value="$PROJECT_DIR$/templates/new_class.html" />
+        <option value="$PROJECT_DIR$/app1/views.py" />
+        <option value="$PROJECT_DIR$/templates/view_class.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="811" />
+    <option name="y" value="40" />
+    <option name="width" value="874" />
+    <option name="height" value="661" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Django_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="app1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="app1" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Django_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="E:/Django/Djangopractice/Curd" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\django DATA\Project_Practicep\Django_Project\app1\static\images" />
+      <recent name="E:\django DATA\Project_Practicep\Django_Project\app1\static" />
+      <recent name="E:\django recording\Project_Practicep\Django_Project\app1\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\django DATA\Project_Practicep\Django_Project\app1\static\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Django_Project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django_Project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a39d6a-72a8-42dc-a065-0a94d1f9ffc8" name="Default Changelist" comment="" />
+      <created>1594199216579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594199216579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.18381241" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.17397882" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.17397882" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Django_Project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/static/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2487e76f-ce74-44cc-b5bc-12cfd4064030/schema/main/table/app1_new_shedule">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/nor.html" />
+    <entry file="file://$PROJECT_DIR$/app1/static/images/large.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/adminlogin.html" />
+    <entry file="file://$PROJECT_DIR$/templates/stu_registration.html" />
+    <entry file="das://3a188c11-0853-434a-b6bf-c8ece9813822/schema/main/table/app1_student">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2487e76f-ce74-44cc-b5bc-12cfd4064030/schema/main/table/app1_adminmodel">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3a188c11-0853-434a-b6bf-c8ece9813822/schema/main/table/app1_coursemodel">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1594538568530" expanded="true" signature="490:495" ph="..." />
+            <marker date="1594538568530" expanded="true" signature="753:758" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/view_complete.html" />
+    <entry file="file://$PROJECT_DIR$/templates/UpdateEnroll.html" />
+    <entry file="file://$PROJECT_DIR$/templates/welcome_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#113#158#0#HTML" expanded="true" />
+            <element signature="e#202#228#0#HTML" expanded="true" />
+            <element signature="e#285#314#0#HTML" expanded="true" />
+            <element signature="e#416#473#0#HTML" expanded="true" />
+            <element signature="e#504#541#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/welcome_menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student_menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/all_course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cancel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="87" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/enrol_course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/view_all Enroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="414" selection-start-line="414" selection-end-line="414" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student_registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/update_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_Project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#638#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/new_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+            <marker date="1594658764843" expanded="true" signature="335:336" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="742:748" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="817:1222" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="1660:2032" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="2058:2063" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="2058:2254" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="2204:2254" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="2289:2347" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="2378:2384" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="2837:2843" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="3288:3294" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="3504:3510" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="3504:3574" ph="..." />
+            <marker date="1594658764843" expanded="true" signature="3665:3671" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/view_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

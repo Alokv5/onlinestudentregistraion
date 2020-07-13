@@ -1,0 +1,27 @@
+{% extends 'welcome_menu.html' %}
+
+{% block alok %}
+    {% load static %}
+
+    {% for x in messages %}
+      <h1 style="color: green;background: antiquewhite">  {{ x }}</h1>
+
+    {% endfor %}
+
+
+    <h1 style="text-align: center"> Welcome To Student Enrol Page<br>
+    <img src="{% static 'images/enroll.jpg' %}"  height="250"></h1>
+
+
+   <h1 style="background: lightblue"> What is a Currently Enrolled Student? </h1>
+<h3 style="font-family: Impact;color: red;text-align: center">A currently enrolled student is a student who
+    is enrolled in the current semester/term.</h3>
+<h5 style="color: red;font-style: italic">
+Step 1: Schedule Meeting with your Academic Advisor to plan schedule.<br>
+Step 2: Register for classes: Detailed instructions are provided on the Getting Started page. <br>
+Step 3: Review your Financial Aid status: Students interested in applying and learning more should click here.<br>
+Step 4: Pay Tuition and Fees by the Deadline: Payment option information is available at the Business Office page.
+</h5>
+
+
+{% endblock %}

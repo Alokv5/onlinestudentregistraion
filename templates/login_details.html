@@ -1,0 +1,16 @@
+{% extends 'common.html' %}
+
+{% block alok %}
+<table align="center" border="2">
+<tr>
+
+    <th style="font-size: 25px">
+        <a href="{% url 'shedule_new' %}">
+        Shedule New Class </a></th>
+     <th style="font-size: 25px">
+         <a href="{% url 'view_all_class' %}">View All  Class</a></th>
+
+ <th style="font-size: 25px">
+         <a href="{% url 'main' %}">Logout</a></th>
+</table>
+{% endblock %}

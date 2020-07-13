@@ -1,0 +1,30 @@
+{% extends 'welcome_menu.html' %}
+
+{% block alok %}
+
+    {% load static %}
+
+
+    <table align="center" border="0" class="table table-striped table-dark">
+    <tr><th colspan="2" style="padding-top: 20px; background: lemonchiffon; color: red;text-align: center">Cancel Enrolled Class</th></tr>
+        <tr><th>Idno</th>
+        <th>{{ object.idno }}</th></tr>
+        <tr><th>Name</th><th>{{ object.name }}</th></tr>
+        <tr><th>faculty</th><th>{{ object.facutly }}</th></tr>
+        <tr><th>Date</th><th>{{ object.date }}</th></tr>
+        <tr><th>Time</th> <th>{{ object.time }}</th></tr>
+        <tr><th>Fee</th><th>{{ object.fee }}</th></tr>
+        <tr><th>Duration</th><th>{{ object.duration }}</th></tr>
+        <tr><th>
+        <form  method="post">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-outline-danger">Yes</button></form>
+    </th>
+        <th>
+       <form  action="{% url 'view_all_enroll' %}">
+            {% csrf_token %}
+           <button class="btn btn-outline-danger">No</button></form>
+    </th>
+    </tr>
+    </table>
+{% endblock %}

@@ -1,0 +1,41 @@
+
+
+{% block alok %}
+    {% load static %}
+ {% include 'login_details.html' %}
+
+    <table align="center" border="2" width="850">
+    <tr><th style="background: lightblue;font-size: 25px;font-family: Impact;text-align: center" colspan="9"> View All Classes</th>
+    </tr>
+    <tr>
+        <th>Idno</th>
+        <th>Name</th>
+        <th>Faculty</th>
+        <th>Date</th>
+        <th>Time</th>
+        <th>Fee</th>
+        <th>Duration</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    {% for x in data %}
+        <tr>
+        <th>{{ x.idno }}</th>
+        <th>{{ x.name }}</th>
+        <th>{{ x.faculty }}</th>
+        <th>{{ x.date }}</th>
+        <th>{{ x.time }}</th>
+        <th>{{ x.fee }}</th>
+        <th>{{ x.duration }}</th>
+        <th>
+            <a href="{% url 'update' %}?no={{ x.idno }}">
+            <img src="{% static 'images/updated.png' %}"></a>
+        </th>
+        <th><a href="{% url 'delete_class'%}?sid={{ x.idno }}">
+        <img src="{% static 'images/delete.png' %}">
+    </a>
+
+    {% endfor %}
+    </table>
+
+{% endblock %}

@@ -1,0 +1,31 @@
+{% extends 'welcome_menu.html' %}
+{% block alok %}
+
+<table align="center" border="0" class="table table-striped table-dark">
+    <tr>
+        <th colspan="8" align="center">All  Enrolled Student</th>
+    </tr>
+     <tr>
+         <th>Id_no</th>
+         <th>Name</th>
+         <th>Faculty</th>
+         <th>Date</th>
+         <th>Time</th>
+         <th>Duration</th>
+         <th>Cancel</th>
+     </tr>
+     {% for x in object_list %}
+     <tr>
+         <th>{{ x.idno }}</th>
+         <th>{{ x.name }}</th>
+         <th>{{ x.facutly }}</th>
+         <th>{{ x.date }}</th>
+         <th>{{ x.time }}</th>
+         <th>{{ x.duration }}</th>
+         <th>
+             <a href="{% url 'cancel_class' x.idno %}">Yes</a>
+         </th>
+         </tr>
+     {% endfor %}
+</table>
+{% endblock %}

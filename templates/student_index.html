@@ -1,0 +1,24 @@
+{% extends 'student_menu.html' %}
+
+{% block alok %}
+
+        {% load static %}
+
+      <table align="center" border="0">
+     {% if messages %}
+          {% for x in messages %}
+      <tr><th style="color: green">{{ x }}</th></tr>
+      <tr><th rowspan="7">
+      </th></tr>
+
+    {% endfor %}
+        {% endif %}
+      </table>
+    <h1 style="text-align: center;background: black;color: antiquewhite"> Welcome To The Online Registration Page And Login Page</h1>
+
+    {% include 'all_course.html' %}
+  {% endblock %}
+
+
+
+
